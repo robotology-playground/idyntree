@@ -16,7 +16,7 @@ This file documents notable changes to this project done before February 2024. F
 
 ## [10.2.0] - 2024-01-12
 
-### Added 
+### Added
 
 - MeshcatVisualizer: Add the possibility to draw lines in MeshcatVisualizer (https://github.com/robotology/idyntree/pull/1141)
 
